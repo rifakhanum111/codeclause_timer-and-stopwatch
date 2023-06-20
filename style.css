@@ -1,0 +1,51 @@
+body{
+    background-color:blanchedalmond;
+    padding: 0;
+    margin: auto;
+}
+.container{
+    text-align: center;
+    font-family:"Signika_Negative variant0", Tofu;
+    background-color:blanchedalmond;
+
+}
+ h1{
+    font-size: 50px;
+    margin-top: 25px;
+    color: red;
+    font-size: bold;
+    font-family:"Signika_Negative variant0", Tofu;
+ }
+ #stopwatch{
+    font-size: 25px;
+    padding: 10px;
+ }
+ #stopwatch-container{
+    display: inline-block;
+    width: 600px;
+    margin: 10% auto;
+    padding: 5% 0;
+    background-color:#fff;
+    border-radius: 20px;
+    border: 2px solid wheat;
+
+ }
+ button{
+    background-color:rgb(76,175,80);
+    width: 100px;
+    height: 50px;
+    color:whitesmoke;
+    border: 2px solid #fff;
+    padding: px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family:"Signika_Negative variant0", Tofu ;
+    margin:10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #08fd109e;
+}
